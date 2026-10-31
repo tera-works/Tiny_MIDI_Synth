@@ -84,4 +84,4 @@ flutter build windows --release
 
 ## ライセンス
 
-[Apache License 2.0](LICENSE) です。ファームウェアに含まれるサードパーティのソフトウェアとそのライセンスは、[NOTICE.txt](NOTICE.txt) に記載しています。
+[MIT License](LICENSE) です。ファームウェアに含まれるサードパーティのソフトウェアとそのライセンスは、[NOTICE.txt](NOTICE.txt) に記載しています。
